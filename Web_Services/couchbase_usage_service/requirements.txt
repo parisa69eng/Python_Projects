@@ -1,0 +1,10 @@
+Flask==2.2.2
+waitress==2.1.2
+jdatetime==4.1.0
+datetime==5.0
+requests==2.22.0
+pandas==1.5.3 
+Dict==2020.12.3
+openpyxl==3.0.10
+XlsxWriter==3.1.0
+flask-cors==3.0.10
