@@ -1,0 +1,14 @@
+{
+    "flask": {
+        "host": "0.0.0.0",
+        "port": 5000
+    },
+    "redis": {
+        "host": "172.20.9.53",
+        "port": 6379,
+        "password": "password",
+        "ip-to-imsi-database-index": 2,
+        "imsi-to-ip-database-index": 3
+    },
+    "log-level": "info"
+}
